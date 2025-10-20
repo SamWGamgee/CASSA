@@ -1,0 +1,7 @@
+2025-08-18 15:06:56	INFO	::casa	
+2025-08-18 15:06:56	INFO	::casa	data_update: version installed or checked less than 1 day ago, nothing updated or checked
+2025-08-18 15:06:56	INFO	::casa	measures_update: version installed or checked less than 1 day ago, nothing updated or checked
+2025-08-18 15:06:56	INFO	::casa	
+2025-08-18 15:06:57	INFO	::casa	Python version 3.10.18
+2025-08-18 15:06:57	INFO	::casa	CASA Version MODULAR 6.7.0.31
+2025-08-18 15:07:53	SEVERE	open::/tmp/everybeam_data/synthms_hba_dec60_t201411041558_SBH51.MS/SPECTRAL_WINDOW	Exception Reported: Table /tmp/everybeam_data/synthms_hba_dec60_t201411041558_SBH51.MS/SPECTRAL_WINDOW does not exist
